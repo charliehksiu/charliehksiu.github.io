@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of philosophy at  University. I did my graduate work at Brown University.
+I am an assistant professor of philosophy at Sun Yat-sen University. I did my graduate work at Brown University.
 
 Here is my [cv](../assets/cv2025.pdf).
 
