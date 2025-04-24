@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Truth, lies, and fiction"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/TLF
