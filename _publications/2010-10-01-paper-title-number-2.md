@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2021
+date: 2021-12-12
 venue: 'Linguistics and Philosophy'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10988-020-09305-8'
