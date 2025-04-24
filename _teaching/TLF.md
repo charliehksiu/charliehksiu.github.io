@@ -2,6 +2,7 @@
 title: "Truth, lies, and fiction"
 collection: teaching
 type: ""
+excerpt: ""
 permalink: /teaching/TLF
 #venue: "Sun Yat-sen University"
 date: 2024-01-01
