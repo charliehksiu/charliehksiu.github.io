@@ -8,4 +8,4 @@ permalink: /teaching/IL
 ---
 An introductory logic course covering sentential logic and predicate logic.
 
-[Syllabus](../assets/IntroLogic_2009)
+[Syllabus](../assets/IntroLogic_2009.pdf)
