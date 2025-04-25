@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Analytic Philosophy"
+title: "Introduction to analytic philosophy"
 collection: teaching
 type: undergraduate
 venue: Sun Yat-sen University
