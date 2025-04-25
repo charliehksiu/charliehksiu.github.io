@@ -1,5 +1,5 @@
 ---
-title: "Writing Philosophy Papers"
+title: "Writing philosophy papers"
 collection: teaching
 type: undergraduate
 venue: Sun Yat-sen University
