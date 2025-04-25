@@ -8,4 +8,4 @@ permalink: /teaching/IAP
 ---
 This course explores four questions: What exists? Do we know that the external world exists? What are the reasons for and against eating meat? Do we know that we are not living in a computer stimulation?
 
-[Syllabus](..\assets\IAP_Fall2024)
+[Syllabus](..\assets\IAP_Fall2024.pdf)
