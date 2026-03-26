@@ -9,7 +9,7 @@ redirect_from:
 
 I am an independent researcher working in philosophy of language, with special interests in loose talk, relevance, questions, fiction and deception.
 
-I did my BA at <a href="https://www.hku.hk" target="_blank">University of Hong Kong</a>, MA at <a href="https://www.tamu.edu/index.html" target="_blank">Texas A&M University</a>, and PhD at [Brown University](https://www.brown.edu). I previously taught at Sun Yat-sen University, Hong Kong Community College, Hong Kong Baptist University, and Texas A&M University.
+I did my BA at <a href="https://www.hku.hk" target="_blank">University of Hong Kong</a>, MA at <a href="https://artsci.tamu.edu/philosophy/index.html" target="_blank">Texas A&M University</a>, and PhD at [Brown University](https://www.brown.edu). I previously taught at Sun Yat-sen University, Hong Kong Community College, Hong Kong Baptist University, and Texas A&M University.
 
 Here is my [cv](../assets/cv2025Sept.pdf). I am also on [philpeople.org](https://philpeople.org/profiles/charlie-siu).
 
