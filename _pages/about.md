@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an independent researcher working in philosophy of language, with special interests in loose talk, relevance, questions, fiction and deception.
+I am an independent researcher working in philosophy of language. I am interested in loose talk, relevance, questions, fiction and deception.
 
 I did my BA at <a href="https://www.hku.hk" target="_blank">University of Hong Kong</a>, MA at <a href="https://artsci.tamu.edu/philosophy/index.html" target="_blank">Texas A&M University</a>, and PhD at [Brown University](https://www.brown.edu). I previously taught at Sun Yat-sen University, Hong Kong Community College, Hong Kong Baptist University, and Texas A&M University.
 
