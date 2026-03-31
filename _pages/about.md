@@ -13,4 +13,4 @@ I did my BA at <a href="https://www.hku.hk" target="_blank">University of Hong K
 
 Here is my [cv](../assets/cv2026.pdf). I am also on [philpeople.org](https://philpeople.org/profiles/charlie-siu).
 
-Email: hokinsiu@gmail.com
+Email: hokinsiu AT gmail DOT com
